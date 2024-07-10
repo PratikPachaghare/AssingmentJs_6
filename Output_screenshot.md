@@ -1,0 +1,5 @@
+![Screenshot 2024-07-10 141459](https://github.com/PratikPachaghare/AssingmentJs_6/assets/147168944/80a50e51-d7aa-4191-b92d-f945b32b7c98)
+![Screenshot 2024-07-10 141334](https://github.com/PratikPachaghare/AssingmentJs_6/assets/147168944/ee7fadb4-a178-4ebb-a1b8-4d91eef5291e)
+![Screenshot 2024-07-10 141305](https://github.com/PratikPachaghare/AssingmentJs_6/assets/147168944/9758ef7b-30b7-48f1-a7ed-e8236a0e4307)
+![Screenshot 2024-07-10 141233](https://github.com/PratikPachaghare/AssingmentJs_6/assets/147168944/49e871e8-503e-4766-86e1-31c1e2a99d5b)
+![Screenshot 2024-07-10 141136](https://github.com/PratikPachaghare/AssingmentJs_6/assets/147168944/40370966-6b10-4ea0-bbc6-f592e1864338)
